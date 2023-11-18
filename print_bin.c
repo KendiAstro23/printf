@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * print_bin - converst unsigned int to 
+ * print_bin - converst unsigned int to
  * binary number
  * @val: the value
  * Return: value

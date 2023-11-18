@@ -19,7 +19,7 @@ int _strlen(char *s)
 }
 
 /**
- * _strlenc - prints out the length of 
+ * _strlenc - prints out the length of
  * constant character strings
  * @s: string
  *
